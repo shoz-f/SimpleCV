@@ -1,0 +1,12 @@
+{
+ "display_name": "SimpleCV", 
+ "language": "python", 
+ "argv": [
+  "C:\\DevelopTools\\Python\\python.exe", 
+  "-m", 
+  "ipykernel", 
+  "--profile=simplecv",
+  "-f", 
+  "{connection_file}"
+ ]
+}

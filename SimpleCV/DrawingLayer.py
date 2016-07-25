@@ -52,7 +52,6 @@ class DrawingLayer:
         self._mSurface.set_colorkey((0, 0, 0))
         self._mDefaultAlpha = 255
         self._mClearColor = pg.Color(0, 0, 0, 0)
-
         self._mSurface.fill(self._mClearColor)
         self._mDefaultColor = Color.BLACK
 
